@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "jen-terr-tfstate"
+    bucket = "flask-terr-tfstate"
     prefix = "env/dev"
   }
 }
