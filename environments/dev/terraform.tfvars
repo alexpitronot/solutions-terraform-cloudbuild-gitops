@@ -1,1 +1,1 @@
-project="jen-terr"
+project="flask-terr"
